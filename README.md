@@ -127,6 +127,13 @@ then you can access the sandbox.
 
 # Team
 1. [swati Khedekar](https://github.com/Swatikhedekar/Analysing-Employee-s-Performance-for-HR-Analytics)
+2. [ROhit Raj Sarraf]()
+3. [Andrew Strain]()
+4. [Koushal Kashyap]()
+
+
+
+
 # Feedback
 
 If you have any feedback, please reach out to us
