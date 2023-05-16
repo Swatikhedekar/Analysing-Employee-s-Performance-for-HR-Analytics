@@ -122,7 +122,7 @@ then you can access the sandbox.
 
 ## Tech
 
-**Mysql Server:** [phpMyAdmin](https://dev.mysql.com/doc/refman/5.7/en/)
+- **Mysql Server:** [phpMyAdmin](https://dev.mysql.com/doc/refman/5.7/en/)
 - Python
 - SQL
 - Excel 
