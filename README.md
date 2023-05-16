@@ -123,7 +123,9 @@ then you can access the sandbox.
 ## Tech
 
 **Mysql Server:** [phpMyAdmin](https://dev.mysql.com/doc/refman/5.7/en/)
-
+- Python
+- SQL
+- Excel 
 
 # Team
 1. [Swati Khedekar](https://github.com/Swatikhedekar/Analysing-Employee-s-Performance-for-HR-Analytics)
